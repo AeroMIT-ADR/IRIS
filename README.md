@@ -1,9 +1,9 @@
 # IRIS
 ![Camera+DepthCam](https://user-images.githubusercontent.com/69350191/123507732-b5dd2f00-d688-11eb-8c47-9e8d4513f631.png)
 
-## Problem Statement : To avoid obsticles and scan maximum QR Codes 
+### Problem Statement : To avoid obsticles and scan maximum QR Codes 
 
-## Process :
+### Process :
 - Considered a Depth Camera 
 - Considered a IRIS Quadcopter from the available xacro files 
 - Updated the Xacro with Depth camera
