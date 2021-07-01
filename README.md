@@ -10,3 +10,9 @@
 - It is observed in Rviz that it has two topics being published.
      ##### Point cloud data (2)
      ##### Raw image camera 
+     
+     
+ ### Camera Module
+ - An additional RGB cam is added which is used to scan QR codes on the given UGV
+ - Kinect RGB is used to scan QR codes on the front plane (walls, blocks etc.)
+ - Thus, having a optimal solution to scan maximum QR codes.
